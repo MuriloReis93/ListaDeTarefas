@@ -1,0 +1,10 @@
+# Pastas geradas pela compilacao
+bin/
+obj/
+
+# Arquivos do Visual Studio
+.vs/
+*.user
+
+# Arquivo de dados gerado pelo proprio app
+tarefas.txt
